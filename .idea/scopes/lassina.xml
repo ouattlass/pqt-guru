@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="lassina" pattern="file:controller/client_controller.py||file:src/bookshop.py||file[pyqt_guru]:*/" />
+</component>
